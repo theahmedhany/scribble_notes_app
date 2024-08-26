@@ -24,7 +24,7 @@ Scribble is a versatile notes application developed using Flutter, designed to e
 
 ## About
 
-Scribble is more than just a notes app; it's a comprehensive solution that harmoniously combines simplicity, creativity, and productivity. If you find yourself juggling multiple apps for note-taking, Scribble streamlines the process, allowing you to focus on what matters most—your thoughts and ideas.
+Scribble is more than just a notes app; it's a comprehensive solution that harmoniously combines simplicity, creativity, and productivity. If you find yourself juggling multiple apps for note-taking, Scribble streamlines the process, allowing you to focus on what matters most - your thoughts and ideas.
 
 The journey of developing Scribble has been one of continuous growth, improvement, and overcoming challenges. Each step has been an opportunity to learn, evolve, and stay present in the moment.
 
@@ -34,7 +34,7 @@ The journey of developing Scribble has been one of continuous growth, improvemen
 https://github.com/user-attachments/assets/63b71a32-2e10-4d25-b3b1-80b6dc08c4fb
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-scribble-activity-7233895838601646082-CLnG?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 
 -----
