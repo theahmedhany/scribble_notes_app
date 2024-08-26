@@ -1,0 +1,63 @@
+name: scribble_notes_app
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  font_awesome_flutter: ^10.7.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_bloc: ^8.1.6
+  intl: ^0.19.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.4.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+  build_runner: ^2.4.11
+  hive_generator: ^2.0.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"  # Logo image path 
+  min_sdk_android: 21
+
+
+flutter_native_splash:
+  color: "#F4F1DE"   # Color of the background of the splash screen 
+  image: assets/images/splash screen.png  # image path
+  android_12:
+    image: assets/images/splash screen.png  # image path
+    color: "#F4F1DE"   # Color of the background of the splash screen 
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+
